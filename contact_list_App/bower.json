@@ -1,0 +1,22 @@
+{
+  "name": "contactlist",
+  "description": "",
+  "main": "",
+  "authors": [
+    "shivakumar"
+  ],
+  "license": "MIT",
+  "homepage": "index.ejs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
